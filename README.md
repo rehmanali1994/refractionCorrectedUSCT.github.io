@@ -1,4 +1,4 @@
-Go to Function folder and run “mex msfm2d.c” for Fast-Marching Method code
+Go to Function folder and run “mex -compatibleArrayDims msfm2d.c” for Fast-Marching Method code
 
 Run travelTimeSimulation.m to simulate travel time dataset.
 Dataset is saved to a file called travelTimes.mat
